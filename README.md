@@ -32,7 +32,7 @@ Install the package in editable mode so you can run it directly from anywhere:
 pip install -e .
 
 After installation, simply run the automation tool using:
-studyreminders:
+studyreminders
 
 You will be met by 3 options:
 
