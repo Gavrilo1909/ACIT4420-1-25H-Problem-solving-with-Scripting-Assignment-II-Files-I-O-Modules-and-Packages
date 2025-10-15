@@ -12,17 +12,17 @@ Use a scheduling system to automatically send out reminders every day.
 # Package Structure
 study_reminders/
 │
-├── init.py
-├── logger.py
-├── main.py
-├── reminder_generator.py
-├── reminder_sender.py
-├── scheduler.py
-├── students_manager.py
-├── students.py
+├init.py
+├ logger.py
+├main.py
+├ reminder_generator.py
+├ reminder_sender.py
+├ scheduler.py
+├ students_manager.py
+├ students.py
 │
-|── README.md
-└── setup.py → Installation configuration
+| README.md
+└ setup.py → Installation configuration
 
 Clone the GitHub repository and navigate into the folder:
 git clone https://github.com/Gavrilo1909/ACIT4420-1-25H-Problem-solving-with-Scripting-Assignment-II-Files-I-O-Modules-and-Packages.git
