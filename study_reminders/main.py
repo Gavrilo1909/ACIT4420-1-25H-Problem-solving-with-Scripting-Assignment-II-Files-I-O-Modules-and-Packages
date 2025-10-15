@@ -24,7 +24,7 @@ def main():
     print("Current students:")
     manager.list_students()
 
-    # Ask user for mode
+    # Asks the user for which mode to use
     print("\nChoose an option:")
     print("1. Send reminders immediately (Test Mode)")
     print("2. Schedule reminders at preferred times (Automatic Mode)")
